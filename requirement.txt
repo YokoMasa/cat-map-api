@@ -1,0 +1,9 @@
+Django==2.0.6
+mysqlclient==1.3.12
+pytz==2018.4
+gunicorn
+pillow
+python-twitter
+requests
+requests_oauthlib
+raven
